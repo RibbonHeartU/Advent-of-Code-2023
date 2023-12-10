@@ -1,11 +1,3 @@
-#String.is_valid_int ( )
-#String.to_int ( )
-#String.substr ( int from, int len=-1 )
-#String.length ( )
-#String.replace ( )
-#FileAccess.open(" ", FileAccess.READ)
-#file.get_line ( )
-#file.eof_reached ( )
 extends Node
 var digits = ["one","two","three","four","five","six","seven","eight","nine"]
 
